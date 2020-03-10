@@ -33,6 +33,5 @@
   <modules>
     <module>hive-exec-shade</module>
     <module>slim-shade</module>
-    <module>tpch-sample-data</module>
   </modules>
 </project>
